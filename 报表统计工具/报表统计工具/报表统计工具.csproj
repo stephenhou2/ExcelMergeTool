@@ -73,9 +73,6 @@
       <DependentUpon>ExcelMergeTool.cs</DependentUpon>
     </Compile>
     <Compile Include="ExcelMergeToolDef.cs" />
-    <Compile Include="ExcelMergeToolUtitlity.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ExcelMergeTool.resx">
