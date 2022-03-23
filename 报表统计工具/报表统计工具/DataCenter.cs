@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace 报表统计工具
 {
-    class ExcelHelper
+    class DataCenter
     {
-
+        public static string MoudlePath = "";
     }
 }

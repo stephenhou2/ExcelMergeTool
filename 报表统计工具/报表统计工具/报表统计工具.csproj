@@ -65,7 +65,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExcelHelper.cs" />
+    <Compile Include="Define.cs" />
+    <Compile Include="DataCenter.cs" />
     <Compile Include="ExcelMergeTool.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +76,7 @@
     <Compile Include="ExcelMergeToolDef.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility.cs" />
     <EmbeddedResource Include="ExcelMergeTool.resx">
       <DependentUpon>ExcelMergeTool.cs</DependentUpon>
     </EmbeddedResource>
